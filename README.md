@@ -1,7 +1,7 @@
 # CreditGuard: Targeted Credit Card Fraud Detection
 
 ## Overview
-CREDIGuard is a sophisticated machine learning-based fraud detection system designed to identify fraudulent activities in credit card transactions. The project was developed as part of the American Express Campus Challenge and focuses on identifying specific fraudsters responsible for a surge in default rates with minimal impact on legitimate customers.
+CreditGuard is a sophisticated machine learning-based fraud detection system designed to identify fraudulent activities in credit card transactions. The project was developed as part of the American Express Campus Challenge and focuses on identifying specific fraudsters responsible for a surge in default rates with minimal impact on legitimate customers.
 
 ## Project Features
 - **Dataset**: The dataset used in this project contains over 62,000 rows and 60+ columns, including variables related to customer onboarding, spending behavior, and default indicators.
@@ -51,5 +51,5 @@ The final model was tested on a hold-out dataset and evaluated on the following 
 ```
 ## Conclusion
 
-CREDIGuard successfully identifies fraudulent credit card transactions with high precision and minimal impact on legitimate customers. The model is optimized for detecting fraudsters responsible for significant losses, contributing to enhanced risk management.
+CreditGuard successfully identifies fraudulent credit card transactions with high precision and minimal impact on legitimate customers. The model is optimized for detecting fraudsters responsible for significant losses, contributing to enhanced risk management.
 
