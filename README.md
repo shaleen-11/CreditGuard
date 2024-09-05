@@ -17,29 +17,6 @@ CreditGuard is a sophisticated machine learning-based fraud detection system des
   - **Optimal Threshold**: Achieved an optimal threshold of `0.21`, leading to a balanced F1-score of `0.60` for fraud detection.
   - **Accuracy**: The model demonstrated high accuracy, maintaining a precision of `0.70` and recall of `0.53` for the minority class (fraud cases).
 
-## Installation
-To replicate this project, follow the steps below:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/a-m-a-nkumar/CreditGuard.git
-    ```
-2. Install the required dependencies:
-
-```bash
-
-    pip install -r requirements.txt
-```
- 3. Download and place the dataset (real_data_r3.xlsx) in the root directory.
-
-## Usage
-
-To run the model training and evaluation:
-
-```bash
-
-python Amex_CrediGuard.ipynb
-```
 ## Results
 
 The final model was tested on a hold-out dataset and evaluated on the following metrics:
